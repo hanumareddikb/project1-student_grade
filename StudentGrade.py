@@ -14,6 +14,5 @@ elif student_percentage >= 60:
     Grade = "D"
 else:
     Grade = "F"
-    j
 
 print(f"Student Name is {student_name} and Grade obtained is {Grade}")
